@@ -20,5 +20,10 @@ namespace MultiProj1
         {
             InitializeComponent();
         }
+
+		private void btnWelcome_Click(object sender, RoutedEventArgs e)
+		{
+
+        }
     }
 }
